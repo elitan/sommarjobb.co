@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "DQZd_uYs_oKb",
+    "name": "Blekinge län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "10",
+    "items": [
+      {
+        "id": "HtGW_WgR_dpE",
+        "name": "Karlshamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1082",
+        "parentId": "DQZd_uYs_oKb"
+      },
+      {
+        "id": "YSt4_bAa_ccs",
+        "name": "Karlskrona",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1080",
+        "parentId": "DQZd_uYs_oKb"
+      },
+      {
+        "id": "1gEC_kvM_TXK",
+        "name": "Olofström",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1060",
+        "parentId": "DQZd_uYs_oKb"
+      },
+      {
+        "id": "vH8x_gVz_z7R",
+        "name": "Ronneby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1081",
+        "parentId": "DQZd_uYs_oKb"
+      },
+      {
+        "id": "EVPy_phD_8Vf",
+        "name": "Sölvesborg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1083",
+        "parentId": "DQZd_uYs_oKb"
+      }
+    ]
+  },
+  {
+    "id": "oDpK_oZ2_WYt",
+    "name": "Dalarnas län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "20",
+    "items": [
+      {
+        "id": "Szbq_2fg_ydQ",
+        "name": "Avesta",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2084",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "cpya_jJg_pGp",
+        "name": "Borlänge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2081",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "N1wJ_Cuu_7Cs",
+        "name": "Falun",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2080",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "Nn7p_W3Z_y68",
+        "name": "Gagnef",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2026",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "DE9u_V4K_Z1S",
+        "name": "Hedemora",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2083",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "7Zsu_ant_gcn",
+        "name": "Leksand",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2029",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "Ny2b_2bo_7EL",
+        "name": "Ludvika",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2085",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "FPCd_poj_3tq",
+        "name": "Malung-Sälen",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2023",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "UGcC_kYx_fTs",
+        "name": "Mora",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2062",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "CRyF_5Jg_4ht",
+        "name": "Orsa",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2034",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "Jy3D_2ux_dg8",
+        "name": "Rättvik",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2031",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "5zZX_8FH_Sbq",
+        "name": "Smedjebacken",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2061",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "c3Zx_jBf_CqF",
+        "name": "Säter",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2082",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "4eS9_HX1_M7V",
+        "name": "Vansbro",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2021",
+        "parentId": "oDpK_oZ2_WYt"
+      },
+      {
+        "id": "cZtt_qGo_oBr",
+        "name": "Älvdalen",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2039",
+        "parentId": "oDpK_oZ2_WYt"
+      }
+    ]
+  },
+  {
+    "id": "K8iD_VQv_2BA",
+    "name": "Gotlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "09",
+    "items": [
+      {
+        "id": "Ft9P_E8F_VLJ",
+        "name": "Gotland",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0980",
+        "parentId": "K8iD_VQv_2BA"
+      }
+    ]
+  },
+  {
+    "id": "zupA_8Nt_xcD",
+    "name": "Gävleborgs län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "21",
+    "items": [
+      {
+        "id": "KxjG_ig5_exF",
+        "name": "Bollnäs",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2183",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "qk8Y_2b6_82D",
+        "name": "Gävle",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2180",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "yuNd_3bg_ttc",
+        "name": "Hofors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2104",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "Utks_mwF_axY",
+        "name": "Hudiksvall",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2184",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "63iQ_V6F_REB",
+        "name": "Ljusdal",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2161",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "fFeF_RCz_Tm5",
+        "name": "Nordanstig",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2132",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "GEvW_wKy_A9H",
+        "name": "Ockelbo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2101",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "JPSe_mUQ_NDs",
+        "name": "Ovanåker",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2121",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "BbdN_xLB_k6s",
+        "name": "Sandviken",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2181",
+        "parentId": "zupA_8Nt_xcD"
+      },
+      {
+        "id": "JauG_nz5_7mu",
+        "name": "Söderhamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2182",
+        "parentId": "zupA_8Nt_xcD"
+      }
+    ]
+  },
+  {
+    "id": "wjee_qH2_yb6",
+    "name": "Hallands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "13",
+    "items": [
+      {
+        "id": "qaJg_wMR_C8T",
+        "name": "Falkenberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1382",
+        "parentId": "wjee_qH2_yb6"
+      },
+      {
+        "id": "kUQB_KdK_kAh",
+        "name": "Halmstad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1380",
+        "parentId": "wjee_qH2_yb6"
+      },
+      {
+        "id": "3XMe_nGt_RcU",
+        "name": "Hylte",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1315",
+        "parentId": "wjee_qH2_yb6"
+      },
+      {
+        "id": "3JKV_KSK_x6z",
+        "name": "Kungsbacka",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1384",
+        "parentId": "wjee_qH2_yb6"
+      },
+      {
+        "id": "c1iL_rqh_Zja",
+        "name": "Laholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1381",
+        "parentId": "wjee_qH2_yb6"
+      },
+      {
+        "id": "AkUx_yAq_kGr",
+        "name": "Varberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1383",
+        "parentId": "wjee_qH2_yb6"
+      }
+    ]
+  },
+  {
+    "id": "65Ms_7r1_RTG",
+    "name": "Jämtlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "23",
+    "items": [
+      {
+        "id": "gRNJ_hVW_Gpg",
+        "name": "Berg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2326",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "eNSc_Nj1_CDP",
+        "name": "Bräcke",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2305",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "j35Q_VKL_NiM",
+        "name": "Härjedalen",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2361",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "yurW_aLE_4ga",
+        "name": "Krokom",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2309",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "Voto_egJ_FZP",
+        "name": "Ragunda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2303",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "ppjq_Eci_Wz9",
+        "name": "Strömsund",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2313",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "D7ax_CXP_6r1",
+        "name": "Åre",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2321",
+        "parentId": "65Ms_7r1_RTG"
+      },
+      {
+        "id": "Vt7P_856_WZS",
+        "name": "Östersund",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2380",
+        "parentId": "65Ms_7r1_RTG"
+      }
+    ]
+  },
+  {
+    "id": "MtbE_xWT_eMi",
+    "name": "Jönköpings län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "06",
+    "items": [
+      {
+        "id": "y9HE_XD7_WaD",
+        "name": "Aneby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0604",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "VacK_WF6_XVg",
+        "name": "Eksjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0686",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "cNQx_Yqi_83Q",
+        "name": "Gislaved",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0662",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "91VR_Hxi_GN4",
+        "name": "Gnosjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0617",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "9zQB_3vU_BQA",
+        "name": "Habo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0643",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "KURg_KJF_Lwc",
+        "name": "Jönköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0680",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "smXg_BXp_jTW",
+        "name": "Mullsjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0642",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "KfXT_ySA_do2",
+        "name": "Nässjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0682",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "L1cX_MjM_y8W",
+        "name": "Sävsjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0684",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "Namm_SpC_RPG",
+        "name": "Tranås",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0687",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "zFup_umX_LVv",
+        "name": "Vaggeryd",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0665",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "xJqx_SLC_415",
+        "name": "Vetlanda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0685",
+        "parentId": "MtbE_xWT_eMi"
+      },
+      {
+        "id": "6bS8_fzf_xpW",
+        "name": "Värnamo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0683",
+        "parentId": "MtbE_xWT_eMi"
+      }
+    ]
+  },
+  {
+    "id": "9QUH_2bb_6Np",
+    "name": "Kalmar län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "08",
+    "items": [
+      {
+        "id": "LY9i_qNL_kXf",
+        "name": "Borgholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0885",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "1koj_6Bg_8K6",
+        "name": "Emmaboda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0862",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "AEQD_1RT_vM9",
+        "name": "Hultsfred",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0860",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "WPDh_pMr_RLZ",
+        "name": "Högsby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0821",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "Pnmg_SgP_uHQ",
+        "name": "Kalmar",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0880",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "8eEp_iz4_cNN",
+        "name": "Mönsterås",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0861",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "Muim_EAi_EFp",
+        "name": "Mörbylånga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0840",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "xk68_bJa_6Fh",
+        "name": "Nybro",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0881",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "tUP8_hRE_NcF",
+        "name": "Oskarshamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0882",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "wYFb_q7w_Nnh",
+        "name": "Torsås",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0834",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "a7hJ_zwv_2FR",
+        "name": "Vimmerby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0884",
+        "parentId": "9QUH_2bb_6Np"
+      },
+      {
+        "id": "t7H4_S2P_3Fw",
+        "name": "Västervik",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0883",
+        "parentId": "9QUH_2bb_6Np"
+      }
+    ]
+  },
+  {
+    "id": "tF3y_MF9_h5G",
+    "name": "Kronobergs län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "07",
+    "items": [
+      {
+        "id": "MMph_wmN_esc",
+        "name": "Alvesta",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0764",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "nXZy_1Jd_D8X",
+        "name": "Lessebo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0761",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "GzKo_S48_QCm",
+        "name": "Ljungby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0781",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "ZhVf_yL5_Q5g",
+        "name": "Markaryd",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0767",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "qz8Q_kDz_N2Y",
+        "name": "Tingsryd",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0763",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "78cu_S5T_Pgp",
+        "name": "Uppvidinge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0760",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "mmot_H3A_auW",
+        "name": "Växjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0780",
+        "parentId": "tF3y_MF9_h5G"
+      },
+      {
+        "id": "EK6X_wZq_CQ8",
+        "name": "Älmhult",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0765",
+        "parentId": "tF3y_MF9_h5G"
+      }
+    ]
+  },
+  {
+    "id": "9hXe_F4g_eTG",
+    "name": "Norrbottens län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "25",
+    "items": [
+      {
+        "id": "vkQW_GB6_MNk",
+        "name": "Arjeplog",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2506",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "A5WX_XVo_Zt6",
+        "name": "Arvidsjaur",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2505",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "y4NQ_tnB_eVd",
+        "name": "Boden",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2582",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "6R2u_zkb_uoS",
+        "name": "Gällivare",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2523",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "tfRE_hXa_eq7",
+        "name": "Haparanda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2583",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "mp6j_2b6_1bz",
+        "name": "Jokkmokk",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2510",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "cUyN_C9V_HLU",
+        "name": "Kalix",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2514",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "biN6_UiL_Qob",
+        "name": "Kiruna",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2584",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "CXbY_gui_14v",
+        "name": "Luleå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2580",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "dHMF_72G_4NM",
+        "name": "Pajala",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2521",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "umej_bP2_PpK",
+        "name": "Piteå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2581",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "14WF_zh1_W3y",
+        "name": "Älvsbyn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2560",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "n5Sq_xxo_QWL",
+        "name": "Överkalix",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2513",
+        "parentId": "9hXe_F4g_eTG"
+      },
+      {
+        "id": "ehMP_onv_Chk",
+        "name": "Övertorneå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2518",
+        "parentId": "9hXe_F4g_eTG"
+      }
+    ]
+  },
+  {
+    "id": "CaRE_1nn_cSU",
+    "name": "Skåne län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "12",
+    "items": [
+      {
+        "id": "waQp_FjW_qhF",
+        "name": "Bjuv",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1260",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "WMNK_PXa_Khm",
+        "name": "Bromölla",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1272",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "64g5_Lio_aMU",
+        "name": "Burlöv",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1231",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "i8vK_odq_6ar",
+        "name": "Båstad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1278",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "gfCw_egj_1M4",
+        "name": "Eslöv",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1285",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "qj3q_oXH_MGR",
+        "name": "Helsingborg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1283",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "bP5q_53x_aqJ",
+        "name": "Hässleholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1293",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "8QQ6_e95_a1d",
+        "name": "Höganäs",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1284",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "autr_KMa_cfp",
+        "name": "Hörby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1266",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "N29z_AqQ_Ppc",
+        "name": "Höör",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1267",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "JARU_FAY_hTS",
+        "name": "Klippan",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1276",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "vrvW_sr8_1en",
+        "name": "Kristianstad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1290",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "5ohg_WJU_Ktn",
+        "name": "Kävlinge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1261",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "Yt5s_Vf9_rds",
+        "name": "Landskrona",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1282",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "naG4_AUS_z2v",
+        "name": "Lomma",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1262",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "muSY_tsR_vDZ",
+        "name": "Lund",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1281",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "oYPt_yRA_Smm",
+        "name": "Malmö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1280",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "najS_Lvy_mDD",
+        "name": "Osby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1273",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "BN7r_iPV_F9p",
+        "name": "Perstorp",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1275",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "dLxo_EpC_oPe",
+        "name": "Simrishamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1291",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "P3Cs_1ZP_9XB",
+        "name": "Sjöbo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1265",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "oezL_78x_r89",
+        "name": "Skurup",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1264",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "vBrj_bov_KEX",
+        "name": "Staffanstorp",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1230",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "2r6J_g2w_qp5",
+        "name": "Svalöv",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1214",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "n6r4_fjK_kRr",
+        "name": "Svedala",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1263",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "UMev_wGs_9bg",
+        "name": "Tomelilla",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1270",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "STvk_dra_M1X",
+        "name": "Trelleborg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1287",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "Tcog_5sH_b46",
+        "name": "Vellinge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1233",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "hdYk_hnP_uju",
+        "name": "Ystad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1286",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "pCuv_P5A_9oh",
+        "name": "Ängelholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1292",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "tEv6_ktG_QQb",
+        "name": "Åstorp",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1277",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "nBTS_Nge_dVH",
+        "name": "Örkelljunga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1257",
+        "parentId": "CaRE_1nn_cSU"
+      },
+      {
+        "id": "LTt7_CGG_RUf",
+        "name": "Östra Göinge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1256",
+        "parentId": "CaRE_1nn_cSU"
+      }
+    ]
+  },
+  {
+    "id": "CifL_Rzy_Mku",
+    "name": "Stockholms län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "01",
+    "items": [
+      {
+        "id": "CCVZ_JA7_d3y",
+        "name": "Botkyrka",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0127",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "E4CV_a5E_ucX",
+        "name": "Danderyd",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0162",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "magF_Gon_YL2",
+        "name": "Ekerö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0125",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "Q7gp_9dT_k2F",
+        "name": "Haninge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0136",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "g1Gc_aXK_EKu",
+        "name": "Huddinge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0126",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "qm5H_jsD_fUF",
+        "name": "Järfälla",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0123",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "FBbF_mda_TYD",
+        "name": "Lidingö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0186",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "aYA7_PpG_BqP",
+        "name": "Nacka",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0182",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "btgf_fS7_sKG",
+        "name": "Norrtälje",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0188",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "mBKv_q3B_SK8",
+        "name": "Nykvarn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0140",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "37UU_T7x_oxG",
+        "name": "Nynäshamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0192",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "4KBw_CPU_VQv",
+        "name": "Salem",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0128",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "8ryy_X54_xJj",
+        "name": "Sigtuna",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0191",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "Z5Cq_SgB_dsB",
+        "name": "Sollentuna",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0163",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "zHxw_uJZ_NJ8",
+        "name": "Solna",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0184",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "AvNB_uwa_6n6",
+        "name": "Stockholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0180",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "UTJZ_zHH_mJm",
+        "name": "Sundbyberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0183",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "g6hK_M1o_hiU",
+        "name": "Södertälje",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0181",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "sTPc_k2B_SqV",
+        "name": "Tyresö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0138",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "onpA_B5a_zfv",
+        "name": "Täby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0160",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "XWKY_c49_5nv",
+        "name": "Upplands Väsby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0114",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "w6yq_CGR_Fiv",
+        "name": "Upplands-Bro",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0139",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "K4az_Bm6_hRV",
+        "name": "Vallentuna",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0115",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "9aAJ_j6L_DST",
+        "name": "Vaxholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0187",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "15nx_Vut_GrH",
+        "name": "Värmdö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0120",
+        "parentId": "CifL_Rzy_Mku"
+      },
+      {
+        "id": "8gKt_ZsV_PGj",
+        "name": "Österåker",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0117",
+        "parentId": "CifL_Rzy_Mku"
+      }
+    ]
+  },
+  {
+    "id": "s93u_BEb_sx2",
+    "name": "Södermanlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "04",
+    "items": [
+      {
+        "id": "kMxr_NiX_YrU",
+        "name": "Eskilstuna",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0484",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "P8yp_WT9_Bks",
+        "name": "Flen",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0482",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "os8Y_RUo_U3u",
+        "name": "Gnesta",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0461",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "snx9_qVD_Dr1",
+        "name": "Katrineholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0483",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "KzvD_ePV_DKQ",
+        "name": "Nyköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0480",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "72XK_mUU_CAH",
+        "name": "Oxelösund",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0481",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "shnD_RiE_RKL",
+        "name": "Strängnäs",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0486",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "rjzu_nQn_mCK",
+        "name": "Trosa",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0488",
+        "parentId": "s93u_BEb_sx2"
+      },
+      {
+        "id": "rut9_f5W_kTX",
+        "name": "Vingåker",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0428",
+        "parentId": "s93u_BEb_sx2"
+      }
+    ]
+  },
+  {
+    "id": "zBon_eET_fFU",
+    "name": "Uppsala län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "03",
+    "items": [
+      {
+        "id": "HGwg_unG_TsG",
+        "name": "Enköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0381",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "sD2e_1Tr_4WZ",
+        "name": "Heby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0331",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "Bbs5_JUs_Qh5",
+        "name": "Håbo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0305",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "KALq_sG6_VrW",
+        "name": "Knivsta",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0330",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "K8A2_JBa_e6e",
+        "name": "Tierp",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0360",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "otaF_bQY_4ZD",
+        "name": "Uppsala",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0380",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "cbyw_9aK_Cni",
+        "name": "Älvkarleby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0319",
+        "parentId": "zBon_eET_fFU"
+      },
+      {
+        "id": "VE3L_3Ei_XbG",
+        "name": "Östhammar",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0382",
+        "parentId": "zBon_eET_fFU"
+      }
+    ]
+  },
+  {
+    "id": "EVVp_h6U_GSZ",
+    "name": "Värmlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "17",
+    "items": [
+      {
+        "id": "yGue_F32_wev",
+        "name": "Arvika",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1784",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "N5HQ_hfp_7Rm",
+        "name": "Eda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1730",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "UXir_vKD_FuW",
+        "name": "Filipstad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1782",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "xnEt_JN3_GkA",
+        "name": "Forshaga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1763",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "PSNt_P95_x6q",
+        "name": "Grums",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1764",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "qk9a_g5U_sAH",
+        "name": "Hagfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1783",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "x5qW_BXr_aut",
+        "name": "Hammarö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1761",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "hRDj_PoV_sFU",
+        "name": "Karlstad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1780",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "ocMw_Rz5_B1L",
+        "name": "Kil",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1715",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "SVQS_uwJ_m2B",
+        "name": "Kristinehamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1781",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "x73h_7rW_mXN",
+        "name": "Munkfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1762",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "mPt5_3QD_LTM",
+        "name": "Storfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1760",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "oqNH_cnJ_Tdi",
+        "name": "Sunne",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1766",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "wmxQ_Guc_dsy",
+        "name": "Säffle",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1785",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "hQdb_zn9_Sok",
+        "name": "Torsby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1737",
+        "parentId": "EVVp_h6U_GSZ"
+      },
+      {
+        "id": "ymBu_aFc_QJA",
+        "name": "Årjäng",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1765",
+        "parentId": "EVVp_h6U_GSZ"
+      }
+    ]
+  },
+  {
+    "id": "g5Tt_CAV_zBd",
+    "name": "Västerbottens län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "24",
+    "items": [
+      {
+        "id": "vQkf_tw2_CmR",
+        "name": "Bjurholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2403",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "tSkf_Tbn_rHk",
+        "name": "Dorotea",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2425",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "7rpN_naz_3Uz",
+        "name": "Lycksele",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2481",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "7sHJ_YCE_5Zv",
+        "name": "Malå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2418",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "wMab_4Zs_wpM",
+        "name": "Nordmaling",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2401",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "XmpG_vPQ_K7T",
+        "name": "Norsjö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2417",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "p8Mv_377_bxp",
+        "name": "Robertsfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2409",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "kicB_LgH_2Dk",
+        "name": "Skellefteå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2482",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "VM7L_yJK_Doo",
+        "name": "Sorsele",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2422",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "gQgT_BAk_fMu",
+        "name": "Storuman",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2421",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "QiGt_BLu_amP",
+        "name": "Umeå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2480",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "tUnW_mFo_Hvi",
+        "name": "Vilhelmina",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2462",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "izT6_zWu_tta",
+        "name": "Vindeln",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2404",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "utQc_6xq_Dfm",
+        "name": "Vännäs",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2460",
+        "parentId": "g5Tt_CAV_zBd"
+      },
+      {
+        "id": "xLdL_tMA_JJv",
+        "name": "Åsele",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2463",
+        "parentId": "g5Tt_CAV_zBd"
+      }
+    ]
+  },
+  {
+    "id": "NvUF_SP1_1zo",
+    "name": "Västernorrlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "22",
+    "items": [
+      {
+        "id": "uYRx_AdM_r4A",
+        "name": "Härnösand",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2280",
+        "parentId": "NvUF_SP1_1zo"
+      },
+      {
+        "id": "yR8g_7Jz_HBZ",
+        "name": "Kramfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2282",
+        "parentId": "NvUF_SP1_1zo"
+      },
+      {
+        "id": "v5y4_YPe_TMZ",
+        "name": "Sollefteå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2283",
+        "parentId": "NvUF_SP1_1zo"
+      },
+      {
+        "id": "dJbx_FWY_tK6",
+        "name": "Sundsvall",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2281",
+        "parentId": "NvUF_SP1_1zo"
+      },
+      {
+        "id": "oJ8D_rq6_kjt",
+        "name": "Timrå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2262",
+        "parentId": "NvUF_SP1_1zo"
+      },
+      {
+        "id": "swVa_cyS_EMN",
+        "name": "Ånge",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2260",
+        "parentId": "NvUF_SP1_1zo"
+      },
+      {
+        "id": "zBmE_n6s_MnQ",
+        "name": "Örnsköldsvik",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "2284",
+        "parentId": "NvUF_SP1_1zo"
+      }
+    ]
+  },
+  {
+    "id": "G6DV_fKE_Viz",
+    "name": "Västmanlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "19",
+    "items": [
+      {
+        "id": "Jkyb_5MQ_7pB",
+        "name": "Arboga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1984",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "7D9G_yrX_AGJ",
+        "name": "Fagersta",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1982",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "oXYf_HmD_ddE",
+        "name": "Hallstahammar",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1961",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "Fac5_h7a_UoM",
+        "name": "Kungsör",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1960",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "4Taz_AuG_tSm",
+        "name": "Köping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1983",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "jbVe_Cps_vtd",
+        "name": "Norberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1962",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "dAen_yTK_tqz",
+        "name": "Sala",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1981",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "Nufj_vmt_VrH",
+        "name": "Skinnskatteberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1904",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "jfD3_Hdg_UhT",
+        "name": "Surahammar",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1907",
+        "parentId": "G6DV_fKE_Viz"
+      },
+      {
+        "id": "8deT_FRF_2SP",
+        "name": "Västerås",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1980",
+        "parentId": "G6DV_fKE_Viz"
+      }
+    ]
+  },
+  {
+    "id": "zdoY_6u5_Krt",
+    "name": "Västra Götalands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "14",
+    "items": [
+      {
+        "id": "17Ug_Btv_mBr",
+        "name": "Ale",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1440",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "UQ75_1eU_jaC",
+        "name": "Alingsås",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1489",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "hejM_Jct_XJk",
+        "name": "Bengtsfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1460",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "ypAQ_vTD_KLU",
+        "name": "Bollebygd",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1443",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "TpRZ_bFL_jhL",
+        "name": "Borås",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1490",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "NMc9_oEm_yxy",
+        "name": "Dals-Ed",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1438",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "ZzEA_2Fg_Pt2",
+        "name": "Essunga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1445",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "ZySF_gif_zE4",
+        "name": "Falköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1499",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "kCHb_icw_W5E",
+        "name": "Färgelanda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1439",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "ZNZy_Hh5_gSW",
+        "name": "Grästorp",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1444",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "roiB_uVV_4Cj",
+        "name": "Gullspång",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1447",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "PVZL_BQT_XtL",
+        "name": "Göteborg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1480",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "txzq_PQY_FGi",
+        "name": "Götene",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1471",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "J116_VFs_cg6",
+        "name": "Herrljunga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1466",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "YbFS_34r_K2v",
+        "name": "Hjo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1497",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "dzWW_R3G_6Eh",
+        "name": "Härryda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1401",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "e413_94L_hdh",
+        "name": "Karlsborg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1446",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "ZkZf_HbK_Mcr",
+        "name": "Kungälv",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1482",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "yHV7_2Y6_zQx",
+        "name": "Lerum",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1441",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "FN1Y_asc_D8y",
+        "name": "Lidköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1494",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "YQcE_SNB_Tv3",
+        "name": "Lilla Edet",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1462",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "z2cX_rjC_zFo",
+        "name": "Lysekil",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1484",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "Lzpu_thX_Wpa",
+        "name": "Mariestad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1493",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "7HAb_9or_eFM",
+        "name": "Mark",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1463",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "tt1B_7rH_vhG",
+        "name": "Mellerud",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1461",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "96Dh_3sQ_RFb",
+        "name": "Munkedal",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1430",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "mc45_ki9_Bv3",
+        "name": "Mölndal",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1481",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "tmAp_ykH_N6k",
+        "name": "Orust",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1421",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "CCiR_sXa_BVW",
+        "name": "Partille",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1402",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "k1SK_gxg_dW4",
+        "name": "Skara",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1495",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "fqAy_4ji_Lz2",
+        "name": "Skövde",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1496",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "aKkp_sEX_cVM",
+        "name": "Sotenäs",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1427",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "wHrG_FBH_hoD",
+        "name": "Stenungsund",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1415",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "PAxT_FLT_3Kq",
+        "name": "Strömstad",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1486",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "rZWC_pXf_ySZ",
+        "name": "Svenljunga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1465",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "qffn_qY4_DLk",
+        "name": "Tanum",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1435",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "aLFZ_NHw_atB",
+        "name": "Tibro",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1472",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "Zsf5_vpP_Bs4",
+        "name": "Tidaholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1498",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "TbL3_HmF_gnx",
+        "name": "Tjörn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1419",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "SEje_LdC_9qN",
+        "name": "Tranemo",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1452",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "CSy8_41F_YvX",
+        "name": "Trollhättan",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1488",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "a15F_gAH_pn6",
+        "name": "Töreboda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1473",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "xQc2_SzA_rHK",
+        "name": "Uddevalla",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1485",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "an4a_8t2_Zpd",
+        "name": "Ulricehamn",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1491",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "fbHM_yhA_BqS",
+        "name": "Vara",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1470",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "THif_q6H_MjG",
+        "name": "Vänersborg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1487",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "NfFx_5jj_ogg",
+        "name": "Vårgårda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1442",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "M1UC_Cnf_r7g",
+        "name": "Åmål",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1492",
+        "parentId": "zdoY_6u5_Krt"
+      },
+      {
+        "id": "Zjiv_rhk_oJK",
+        "name": "Öckerö",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1407",
+        "parentId": "zdoY_6u5_Krt"
+      }
+    ]
+  },
+  {
+    "id": "xTCk_nT5_Zjm",
+    "name": "Örebro län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "18",
+    "items": [
+      {
+        "id": "dbF7_Ecz_CWF",
+        "name": "Askersund",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1882",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "pvzC_muj_rcq",
+        "name": "Degerfors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1862",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "Ak9V_rby_yYS",
+        "name": "Hallsberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1861",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "sCbY_r36_xhs",
+        "name": "Hällefors",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1863",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "wgJm_upX_z5W",
+        "name": "Karlskoga",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1883",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "viCA_36P_pQp",
+        "name": "Kumla",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1881",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "oYEQ_m8Q_unY",
+        "name": "Laxå",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1860",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "yaHU_E7z_YnE",
+        "name": "Lekeberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1814",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "JQE9_189_Ska",
+        "name": "Lindesberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1885",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "eF2n_714_hSU",
+        "name": "Ljusnarsberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1864",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "WFXN_hsU_gmx",
+        "name": "Nora",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1884",
+        "parentId": "xTCk_nT5_Zjm"
+      },
+      {
+        "id": "kuMn_feU_hXx",
+        "name": "Örebro",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "1880",
+        "parentId": "xTCk_nT5_Zjm"
+      }
+    ]
+  },
+  {
+    "id": "oLT3_Q9p_3nn",
+    "name": "Östergötlands län",
+    "type": "region",
+    "legacyAmsTaxonomyId": "05",
+    "items": [
+      {
+        "id": "e5LB_m9V_TnT",
+        "name": "Boxholm",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0560",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "dMFe_J6W_iJv",
+        "name": "Finspång",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0562",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "U4XJ_hYF_FBA",
+        "name": "Kinda",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0513",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "bm2x_1mr_Qhx",
+        "name": "Linköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0580",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "stqv_JGB_x8A",
+        "name": "Mjölby",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0586",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "E1MC_1uG_phm",
+        "name": "Motala",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0583",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "SYty_Yho_JAF",
+        "name": "Norrköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0581",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "Pcv9_yYh_Uw8",
+        "name": "Söderköping",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0582",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "VcCU_Y86_eKU",
+        "name": "Vadstena",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0584",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "Sb3D_iGB_aXu",
+        "name": "Valdemarsvik",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0563",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "vRRz_nLT_vYv",
+        "name": "Ydre",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0512",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "bFWo_FRJ_x2T",
+        "name": "Åtvidaberg",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0561",
+        "parentId": "oLT3_Q9p_3nn"
+      },
+      {
+        "id": "Fu8g_29u_3xF",
+        "name": "Ödeshög",
+        "type": "municipality",
+        "legacyAmsTaxonomyId": "0509",
+        "parentId": "oLT3_Q9p_3nn"
+      }
+    ]
+  }
+]
