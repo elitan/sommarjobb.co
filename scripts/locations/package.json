@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nhost/nhost-js": "^0.2.4",
-    "slugify": "^1.6.2"
+    "@nhost/nhost-js": "^0.2.4"
   }
 }
